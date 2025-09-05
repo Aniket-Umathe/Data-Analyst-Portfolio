@@ -21,5 +21,4 @@ All practice questions are compiled in this document:
 
 ---
 
-## 📂 Repository Structure
 
