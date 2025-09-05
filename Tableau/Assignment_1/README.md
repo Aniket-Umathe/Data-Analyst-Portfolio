@@ -15,10 +15,6 @@ Analyze the dataset to answer the questions
 - `Screenshots.png` → Dashboard previews (PNG/JPG) 
 
 ---
-## 📘 Assignment Questions
-All practice questions are compiled in this document:  
-➡️ https://github.com/Aniket-Umathe/Data-Analyst-Portfolio/tree/07e95384e8b9a4cdbb6eb5b03a2503e8d3ce5826/Tableau/Assignment_1/Questions
 
----
 
 
