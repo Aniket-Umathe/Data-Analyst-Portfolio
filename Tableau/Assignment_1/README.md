@@ -17,7 +17,7 @@ Analyze the dataset to answer the questions
 ---
 ## 📘 Assignment Questions
 All practice questions are compiled in this document:  
-➡️ [Tableau Practice Questions](Questions/Tableau_Practice_Questions.docx)
+➡️ Tableau/Assignment_1/Questions
 
 ---
 
