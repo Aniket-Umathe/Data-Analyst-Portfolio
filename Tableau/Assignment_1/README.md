@@ -9,7 +9,7 @@ Analyze the dataset to answer the questions
 ---
 
 ### 📂 Files Included  
-- `dataset.xlsm` → Raw sales data  
+- `dataset.xlsx` → Raw sales data  
 - `questions.docx` → Assignment problem statements  
 - `workbooks.twbx` → Tableau workbook (interactive dashboard)
 - `Screenshots.png` → Dashboard previews (PNG/JPG) 
